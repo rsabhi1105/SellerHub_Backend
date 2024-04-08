@@ -2,7 +2,6 @@
 # from langchain.chains.retrieval_qa.base import RetrievalQA
 # from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 #
-# OPENAI_API_KEY = "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"
 #
 # embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 #
