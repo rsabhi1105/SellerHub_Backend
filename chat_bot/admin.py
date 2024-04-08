@@ -32,4 +32,4 @@ class ChatBotAdmin(admin.ModelAdmin):
         "user", "vector_db", "documents", "user_chat", "response_chat",
         "created_at", "updated_at"
     ]
-    actions = [doc_to_vector]
+    # actions = ["doc_to_vector"]
